@@ -5,5 +5,6 @@ A log of my open source contributions.
 https://github.com/apache/incubator-druid/commits?author=sashidhar
 
 https://github.com/apache/incubator-druid/pull/7907
+
 https://github.com/apache/incubator-druid/pull/7764
 
