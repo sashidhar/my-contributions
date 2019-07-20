@@ -2,9 +2,9 @@
 A log of my open source contributions.
 
 # Apache Druid
-https://github.com/apache/incubator-druid/commits?author=sashidhar
+Commits - https://github.com/apache/incubator-druid/commits?author=sashidhar
 
-https://github.com/apache/incubator-druid/pulls?q=is:pr+author:sashidhar
+PRs - https://github.com/apache/incubator-druid/pulls?q=is:pr+author:sashidhar
 
 https://github.com/apache/incubator-druid/pull/8068
 
