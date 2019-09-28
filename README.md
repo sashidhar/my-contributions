@@ -10,7 +10,7 @@ https://github.com/apache/incubator-druid/pull/8068
 
 https://github.com/apache/incubator-druid/pull/8046
 
-https://github.com/apache/incubator-druid/pull/8038 - WIP
+https://github.com/apache/incubator-druid/pull/8038
 
 https://github.com/apache/incubator-druid/pull/7969
 
