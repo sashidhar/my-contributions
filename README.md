@@ -1,7 +1,9 @@
 # my-contributions
 A log of my open source contributions.
 
-# Apache Druid
+# Apache Druid 
+Apache Druid is a real-time analytics database.
+
 Commits - https://github.com/apache/incubator-druid/commits?author=sashidhar
 
 PRs     - https://github.com/apache/incubator-druid/pulls?q=is:pr+author:sashidhar
